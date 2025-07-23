@@ -1,0 +1,38 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+env/
+venv/
+ENV/
+.venv/
+
+# Jupyter Notebook runtime logs
+*.log
+
+# Data files
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.parquet
+*.feather
+*.h5
+*.zip
+*.tar.gz
+*.json
+*.db
+*.sqlite
+*.sav
+*.pkl
+
+Thumbs.db
